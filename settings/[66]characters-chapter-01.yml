@@ -1,0 +1,114 @@
+# キャラクター設定 第1章
+all:
+  - name: アーズフェムト・レイキス・エクサガルド
+    nick name: アーズ
+    status: 王太子
+    inherent:
+      race: ｜葦人《レイル》
+      gender: 男
+      age: 17
+    appearance:
+      - 格好いい
+    internal charactaristics:
+      - 逞しい
+    etc:
+      - 
+
+  - name: メグネルト・シアーノ・ウォンバルディア
+    nick name: メグ
+    status: 伯爵令嬢
+    inherent:
+      race: ｜狼獣人《オウクナ》
+      gender: 女
+      age: 16
+    appearance:
+      - 可愛い
+    internal charactaristics:
+      - しっかり者
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
+  - name: 
+    nick name: 
+    status: 
+    inherent:
+      race: 
+      gender: 
+      age: 
+    appearance:
+      - 
+    internal charactaristics:
+      - 
+    etc:
+      - 
+
